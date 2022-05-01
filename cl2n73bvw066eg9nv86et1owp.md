@@ -35,8 +35,8 @@ Explanation: s becomes "c" while t becomes "b".
 </pre>
 
 ## Constraints
-* 
-* 
+* 1 <= s.length, t.length <= 200
+* s and t only contain lowercase letters and '#' characters.
 
 ## Solution
 So, we looked into all the problem details and constraints. Now let's dive into solutions for the same.
