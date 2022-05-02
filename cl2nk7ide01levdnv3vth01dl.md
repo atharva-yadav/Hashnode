@@ -1,4 +1,4 @@
-## 240. Search a 2D Matrix II
+## 240. Search a 2D Matrix II | Binary Search
 
 
 Hey, today we are going to solve the **Search a 2D Matrix II** from the LeetCode problem section.  This question comes under 2D Arrays and Searching concepts. Let's understand what the problem is and how to find its solution.
@@ -32,10 +32,10 @@ Output: false
 * m == matrix.length
 * n == matrix[i].length
 * 1 <= m, n <= 100
-* -104 <= matrix[i][j], target <= 104
+* -10<sup>4</sup> <= matrix[i][j], target <= 10<sup>4</sup>
 
 ## Solution
-So, we looked into all the problem details and constraints. Now let's dive into solutions for the same.
+So, we looked into all the problem details and constraints. Now let's dive into efficient solutions for the same.
 
 ```
 // C++ Solution
@@ -68,7 +68,7 @@ public:
 
 
 ## Conclusion
-So, this was the solution for the **Search a 2D Matrix II** Leetcode Problem. Hopefully, you might understand this solution. If you found it useful, please follow me for more such articles and do share with your peers. And yes, don't forget to leave your suggestions, and thoughts in the comment box. 
+So, this was the solution for the **Search a 2D Matrix II** Leetcode Problem using **Binary Search**. Hopefully, you might understand this solution. If you found it useful, please follow me for more such articles and do share with your peers. And yes, don't forget to leave your suggestions, and thoughts in the comment box. 
 
 Thank you!
 
