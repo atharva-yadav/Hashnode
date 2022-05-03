@@ -1,4 +1,4 @@
-## Plus One | Array
+## 66. Plus One | Array
 
 Hey, today we are going to solve the **Plus One** from the LeetCode problem section.  This question comes under Array concepts. Let's understand what the problem is and how to find its solution.
 
